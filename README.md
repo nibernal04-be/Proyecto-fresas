@@ -623,6 +623,7 @@ La implementación del sistema contribuye a:
 
 5. La implementación de tecnologías de bajo costo representa una alternativa viable para pequeños productores agrícolas.
 
+El sistema permite monitorear variables ambientales relevantes para el cultivo de fresa.
 ---
 
 # 14. Recomendaciones
